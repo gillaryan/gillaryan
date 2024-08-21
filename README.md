@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-**gillaryan/gillaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Aryan gill</h1>
 <h3 align="center">A passionate Network Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gillaryan&label=Profile%20views&color=0e75b6&style=flat" alt="gillaryan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gillaryan&label=Profile%20views&color=0e75b6&style=flat" alt="gillaryan"/> </p>
 
 - 📫 How to reach me **aryangill003@gmail.com**
 
